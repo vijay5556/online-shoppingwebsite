@@ -1,0 +1,12 @@
+.ham {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  background-color: rgb(216, 187, 187);
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
+body {
+  background-color: red;
+}
